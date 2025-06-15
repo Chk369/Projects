@@ -1,0 +1,16 @@
+project_id = "vjdprmksxsckfufjyqqh"
+
+[functions.recommendations]
+verify_jwt = true
+
+[functions.customer-search]
+verify_jwt = true
+
+[functions.analytics]
+verify_jwt = true
+
+[functions.social-graph]
+verify_jwt = true
+
+[functions.health]
+verify_jwt = false
